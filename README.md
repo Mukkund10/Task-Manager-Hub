@@ -1,2 +1,2 @@
 # Task-Manager-Hub
-Centralised hub for managing tasks, projects and collaborations.
+Introduction to the project, its goals and navigation guide.
